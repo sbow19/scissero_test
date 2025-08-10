@@ -45,7 +45,7 @@ I made the following assumptions in the code:
 - the notes have not been redeemed early
 - maturity period can between 0 and 100 years(exclusive)
 - buffer threshold is between 0 and 100 percent
-    - buffer amount is between 0 and 100 percent
+- buffer amount is between 0 and 100 percent
 
 
 
