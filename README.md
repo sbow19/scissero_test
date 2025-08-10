@@ -15,7 +15,7 @@ There is an example table in this directory.
 
 main.js is the entry point to the application. Calculate generates rows of values which is passed to doc_gen.js, which generates the .docx file. validate.js carries out some initial validation, and types.js has some jsDoc type definitions.
 
-## Interpretation of Instructions and Code Explanation
+## Explanation
 
 There are two formulas used when calculating the Payment at Maturity, and which formula is used is dependent on the Final Value of each Underlying (that is, the Buffer Threshold), and whether the Final Value falls in respect of the Buffer Threshold. The Underlying Return represents the percentage change of the Underlying over the maturity period.
 
