@@ -42,9 +42,9 @@ The Contingent Interest can be defined as the interest accrued.
 The Basic Interest Rate does not apply a compound interest formula, and simply applies a flat increase or decrease at maturity, depending on the performance of the Underlying and the Buffer Amount. Essentially, the Buffer Amount is the amount of decrease that is tolerated in the Underlying's value before the note value's final value decreases, and as such there might be some values of Underlying Return and Buffer Amount where interest is accrued.
 
 I made the following assumptions in the code:
-    - the notes have not been redeemed early
-    - maturity period can between 0 and 100 years(exclusive)
-    - buffer threshold is between 0 and 100 percent
+- the notes have not been redeemed early
+- maturity period can between 0 and 100 years(exclusive)
+- buffer threshold is between 0 and 100 percent
     - buffer amount is between 0 and 100 percent
 
 
