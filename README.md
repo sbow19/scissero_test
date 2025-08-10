@@ -4,7 +4,7 @@ To run the script, just run:
 ```bash
     npm init
     
-    npm start <note value> <buffer percentage> <years> <interest per annum> <table gradations>
+    npm start <note value> <buffer threhsold> <buffer amount> <years> <interest per annum> <table gradations>
 ```
 Validate.js validates the types of the arguments and checks whether they fall within
 some reasonable bounds.
