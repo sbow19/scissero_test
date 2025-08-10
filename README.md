@@ -32,9 +32,10 @@ The Contingent Interest Rate is calculated using the following compound interest
 
 noteValue * (1 + r/n)^nt
 
-Where r is the interest rate per annum
-n is the number of interest accruing intervals 
-t is the number of years.
+Where 
+- r is the interest rate per annum
+- n is the number of interest accruing intervals 
+- t is the number of years.
 
 The Contingent Interest can be defined as the interest accrued.
 
